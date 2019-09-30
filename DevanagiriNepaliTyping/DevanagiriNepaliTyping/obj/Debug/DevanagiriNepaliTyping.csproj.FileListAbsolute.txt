@@ -1,0 +1,11 @@
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\bin\Debug\DevanagiriNepaliTyping.exe.config
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\bin\Debug\DevanagiriNepaliTyping.exe
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\bin\Debug\DevanagiriNepaliTyping.pdb
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.csprojAssemblyReference.cache
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.FrmMain.resources
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.Properties.Resources.resources
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.csproj.GenerateResource.cache
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.csproj.CoreCompileInputs.cache
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.exe
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.pdb
+E:\AY\S\S2\VS_2017\DevanagiriNepaliTyping\DevanagiriNepaliTyping\obj\Debug\DevanagiriNepaliTyping.FrmAbout.resources
